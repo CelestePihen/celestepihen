@@ -1,5 +1,5 @@
 # 👋 About Me:
-I'm a passionate developer with a strong interest in programming.  
+I'm a French passionate developer with a strong interest in programming.  
 I mainly code in Java (especially for Minecraft, using Spigot/Paper/Forge/Fabric) and C++ which I'm currently still learning.
 
 🎮 I'm working on a game project, a RPG with a well-defined story, still under development.
