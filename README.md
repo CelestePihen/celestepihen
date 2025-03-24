@@ -2,7 +2,7 @@
 I'm a French passionate developer with a strong interest in programming.  
 I mainly code in Java (especially for Minecraft, using Spigot/Paper/Forge/Fabric) and C++ which I'm currently still learning.
 
-🎮 I'm recreating the video game Super Mario Bros in C++ with raylib and I'm working on a game project, a RPG with a well-defined story, still under development.
+🎮 I'm recreating the video game Mario in C++ with raylib and I'm working on a game project, a RPG with a well-defined story, still under development.
 
 💻 I’m currently working on my [Minecraft Server GDLCA Minigames](https://github.com/CelestePihen/GDLCA-Minigames) with friends since 2022, an application named Dead by Daylight Randomizer in C with Raylib and a [Messaging application](https://github.com/CelestePihen/MessagingApp) in C#.
 
