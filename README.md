@@ -1,6 +1,6 @@
 # 👋 About Me:
 I'm a French passionate developer with a strong interest in programming.  
-I mainly code in Java (especially for Minecraft, using Spigot/Paper/Forge/Fabric) and C++ which I'm currently still learning.
+I mainly code in Java, Python, Typescript, and C++ which I'm currently still learning.
 
 🎮 I'm currently working on a game project, a top-down 2D video game with Unity with a friend, still under development.
 
