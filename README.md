@@ -8,22 +8,6 @@ Je développe principalement en **Java, Python, TypeScript et C++**, et j'aime d
 >
 > Développement logiciel • Java • C++ • Python • TypeScript • Développement web
 
-## 🚀 Projets actuels
-
-### ⛏️ GDLCA Minigames
-
-Je développe depuis **2022** un serveur Minecraft privé de mini-jeux avec des amis.
-
-Le projet comprend plusieurs modes de jeu et de nombreux plugins développés sur mesure, principalement en **Java avec Paper**.
-
-`Java` `Paper` `PostgreSQL` `Minecraft`
-
-### 🎮 Jeu vidéo 2D
-
-Je travaille actuellement sur un **jeu vidéo top-down 2D**, avec notamment un système de combat, développé en **C++ avec raylib**.
-
-`C++` `raylib`
-
 ## 💼 Expérience professionnelle
 
 ### 🎓 [GSE - Gestion du Système d'Emprunt](https://github.com/JrCanDev/GSE)
@@ -49,6 +33,20 @@ Développée avec **TypeScript, React et Electron**.
 Application permettant de générer aléatoirement des éléments pour les parties de **Dead by Daylight**, développée en **C avec raylib**.
 
 `C` `raylib`
+
+### ⛏️ GDLCA Minigames
+
+Je développe depuis **2022** un serveur Minecraft privé de mini-jeux avec des amis.
+
+Le projet comprend plusieurs modes de jeu et de nombreux plugins développés sur mesure, principalement en **Java avec Paper**.
+
+`Java` `Paper` `PostgreSQL` `Minecraft`
+
+### 🎮 Jeu vidéo 2D
+
+Je travaille actuellement sur un **jeu vidéo top-down 2D**, avec notamment un système de combat, développé en **C++ avec raylib**.
+
+`C++` `raylib`
 
 ## 💻 Compétences techniques
 
