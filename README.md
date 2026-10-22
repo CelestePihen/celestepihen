@@ -18,6 +18,14 @@ L'application permet notamment la gestion du matériel et des emprunts, le suivi
 
 `PHP` `PostgreSQL` `HTML` `CSS` `JavaScript`
 
+### ⛏️ Cité de l'Artisanat - Guill Productions
+
+Dans le cadre d'une mission en freelance en tant que développeur Java, j'ai participé au développement de fonctionnalités pour La Cité de l'Artisanat, un événement organisé sur Minecraft réunissant plus de 40 créateurs de contenu.
+
+J'ai travaillé au sein d'une équipe de plus de 20 personnes, composée de différents profils, afin de contribuer à la préparation technique de l'événement et à son bon déroulement.
+
+`Java` `Minecraft` `Paper` `API`
+
 ## 📌 Projets personnels
 
 ### 🖥️ [Boss Overlay - Clair Obscur: Expedition 33](https://github.com/CelestePihen/boss-overlay-clair-obscur-e33)
