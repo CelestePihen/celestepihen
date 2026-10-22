@@ -4,7 +4,7 @@ Je suis 🇫🇷 **étudiant en 3ᵉ année de BUT Informatique**, passionné pa
 
 Je développe principalement en **Java, Python, TypeScript et C++**, et j'aime découvrir de nouvelles technologies à travers mes projets personnels, universitaires et professionnels.
 
-> 🔎 **À la recherche d'un stage en développement informatique de mars à juin 2027**
+> 🔎 **À la recherche d'un stage en développement logiciel / fullstack d'une durée de 12 à 14 semaines de mars à juin 2027**
 >
 > Développement logiciel • Java • C++ • Python • TypeScript • Développement web
 
